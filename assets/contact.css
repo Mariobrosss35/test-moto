@@ -1,0 +1,13 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  #contact{
+      text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  #contact form{
+      background-color: black
+  }
