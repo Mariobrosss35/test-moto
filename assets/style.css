@@ -362,9 +362,15 @@
 
 /*-------------------------------------------- 8 - FORMULAIRE NEWSLETTER */
 
+form{
+  padding: 15px 15%;
+}
 
+form button{
+  display: inline-block;
+  align-items: center;
 
-
+}
 
 
 /*-------------------------------------------- 9 - PAGE ACCESSOIRES */
