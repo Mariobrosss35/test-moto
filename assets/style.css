@@ -27,7 +27,7 @@
 */
 /*-------------------------------------------- 0 - GLOBAL */
   :root {
-    --primary: #1cf12d;
+    --primary: #f44336;
     --primary-alpha: rgba(244, 67, 54, .7);
     --white: #f3f3f3;
   }
