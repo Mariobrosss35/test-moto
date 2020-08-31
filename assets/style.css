@@ -20,8 +20,8 @@
 */
 /*-------------------------------------------- 0 - GLOBAL */
   :root {
-    --primary: #f44336;
-    --primary-alpha: rgba(244, 67, 54, .7);
+    --primary: #1f1cdd;
+    --primary-alpha: rgba(55, 54, 129, 0.7);
     --white: #f3f3f3;
   }
 
@@ -43,7 +43,7 @@
   }
 
   select, input:not([type="submit"]), textarea {
-    border-radius:5px;
+    /* border-radius:5px; */
     padding: 5px 15px;
     border:none;
     outline:none;
@@ -70,7 +70,7 @@
 
   .btn-link {
     display:inline-block;
-    border-radius:2rem;
+    /* border-radius:2rem; */
     background-color: var(--primary);
     color: var(--white);
     text-transform: uppercase;
@@ -83,7 +83,7 @@
   }
 
   .red-rounded {
-    border-radius: 7px;
+    /* border-radius: 7px; */
     background-color: var(--primary-alpha);
   }
 
@@ -103,7 +103,7 @@
     text-align: center;
     color: var(--white);
     background-color: var(--primary);
-    border-radius: 50%;
+    /* border-radius: 50%; */
     font-size:30px;
   }
 /*-------------------------------------------- 1 - NAV */
