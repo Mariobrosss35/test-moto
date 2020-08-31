@@ -10,5 +10,8 @@
       padding: 60px 30%;
       background-color: rgba(231,231,231,1);
 }
+#contact input,textarea{
+    margin-top: 15px;
+}
 
   
